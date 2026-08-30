@@ -2,12 +2,10 @@
 
 A Windows previewer for UI shader looks. The rail on the left is the catalog. The stage on the right is the live fill. Click a row, or use the arrows.
 
-<p align="center">
-  <img src="docs/preview.png" alt="Custom Shader Pack">
-</p>
+![Preview](docs/preview.mp4)
 
 <p align="center">
-  <video src="https://github.com/ff0l/Custom-Shader-Pack/releases/download/v1.0.0/preview.mp4" width="100%" controls muted loop></video>
+  <img src="docs/preview.png" alt="Custom Shader Pack">
 </p>
 
 ## How it works
@@ -39,6 +37,7 @@ include/pack/looks.hpp      shader bodies
 include/pack/catalog.hpp    names and list
 src/Main.cpp                preview window
 docs/preview.png            screenshot
+docs/preview.mp4            preview clip
 ```
 
 ## Build
