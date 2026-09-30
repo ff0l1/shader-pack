@@ -3,8 +3,8 @@
 
 #include <Windows.h>
 
-#include "pack/catalog.hpp"
-#include "ur/ur.hpp"
+#include "pack/catalog.hxx"
+#include "ur/ur.hxx"
 
 namespace {
 
