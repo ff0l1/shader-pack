@@ -26,7 +26,7 @@ There are thirty-nine fills: warped bands, metal, rays, tunnels, fire, snow, rai
 
 ## Build
 
-Windows 10 SDK, MSVC, CMake 3.20, Ninja. Needs [ur](https://github.com/ff0l1/ur) checked out at `../etc/custom-framework`.
+Windows 10 SDK, MSVC, CMake 3.20, Ninja. Needs [ui-framework](https://github.com/ff0l1/ui-framework) checked out at `../custom-framework`.
 
 ```
 cmake --preset windows-release
